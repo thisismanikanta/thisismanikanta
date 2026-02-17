@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thisismanikanta&label=Profile%20views&color=0e75b6&style=flat" alt="thisismanikanta" /> </p>
 
-- 🔭 I’m currently working on **Building responsive and scalable web applications using React.js**
+- 🔭 I’m currently exploring **web development opportunities and sharpening my problem-solving skills**
 
 - 🌱 I’m currently learning **Java and Data Structures & Algorithms**
 
