@@ -32,6 +32,13 @@
 <a href="https://instagram.com/_manikanta_5558" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_manikanta_5558" height="30" width="40" /></a>
   <a href="https://www.leetcode.com/manikanta-ganta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="manikanta-ganta" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/manikanta5558" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="manikanta5558" height="30" width="40" /></a>
+<a href="https://gitlab.com/manikanta5558" target="blank">
+  <img align="center" 
+       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" 
+       alt="manikanta5558" 
+       height="30" 
+       width="40" />
+</a>
 
 </p>
 
