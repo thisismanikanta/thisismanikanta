@@ -22,7 +22,7 @@
 
 - 📫 How to reach me **gantamanikanta2006@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1q0b_WhQSWJHUC9rOsLXmw4CPMjksdWEw/view?usp=sharing](https://drive.google.com/file/d/1q0b_WhQSWJHUC9rOsLXmw4CPMjksdWEw/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1P3h9rpdoFQFVXPsRxNEBzh_-VqVMlzkx/view?usp=sharing](https://drive.google.com/file/d/1P3h9rpdoFQFVXPsRxNEBzh_-VqVMlzkx/view?usp=sharing)
 
 - ⚡ Fun fact **I enjoy debugging and improving user experience 🚀**
 
