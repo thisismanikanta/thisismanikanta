@@ -1,22 +1,18 @@
 name: Generate Snake
 
 on:
-  schedule:
-    - cron: "0 0 * * *"
   workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
-
     steps:
-      # 1️⃣ Checkout the repo
+      # 1️⃣ Checkout repo
       - uses: actions/checkout@v4
 
-      # 2️⃣ Clean old dist folder
+      # 2️⃣ Clean dist folder
       - name: Clean dist folder
-        run: |
-          rm -rf dist
+        run: rm -rf dist
 
       # 3️⃣ Generate the snake
       - uses: Platane/snk@v3
@@ -26,14 +22,10 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      # 4️⃣ Upload artifact (optional)
-      - uses: actions/upload-artifact@v4
-        with:
-          name: snake
-          path: dist
-
-      # 5️⃣ Deploy to output branch
+      # 4️⃣ Deploy to output branch
       - uses: JamesIves/github-pages-deploy-action@v4
         with:
-          branch: output
-          folder: dist
+          branch: output          # deploy branch
+          folder: dist            # folder to deploy
+          clean: true             # remove old files first
+          commit_message: "Update Snake contribution grid"
