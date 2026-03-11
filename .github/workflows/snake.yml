@@ -2,19 +2,22 @@ name: Generate Snake
 
 on:
   workflow_dispatch:
+  schedule:
+    - cron: "0 0 * * *"  # daily at midnight UTC
 
 jobs:
   build:
     runs-on: ubuntu-latest
+
     steps:
-      # 1️⃣ Checkout repo
+      # 1️⃣ Checkout
       - uses: actions/checkout@v4
 
       # 2️⃣ Clean dist folder
       - name: Clean dist folder
         run: rm -rf dist
 
-      # 3️⃣ Generate the snake
+      # 3️⃣ Generate snake
       - uses: Platane/snk@v3
         with:
           github_user_name: thisismanikanta
@@ -25,7 +28,7 @@ jobs:
       # 4️⃣ Deploy to output branch
       - uses: JamesIves/github-pages-deploy-action@v4
         with:
-          branch: output          # deploy branch
-          folder: dist            # folder to deploy
-          clean: true             # remove old files first
-          commit_message: "Update Snake contribution grid"
+          branch: output       # deploy branch
+          folder: dist         # folder to deploy
+          clean: true          # remove old files
+          commit-message: "Update contribution snake"  # ⚠ correct input name
