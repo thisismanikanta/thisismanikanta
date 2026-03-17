@@ -6,7 +6,7 @@
 <h3 align="center"> A passionate Frontend Developer from India | CSE Undergraduate</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/ed/ec/57/edec57b70e496d6310c0ba533909acb2.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=thisismanikanta&label=Profile%20views&color=0e75b6&style=flat" alt="thisismanikanta" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=thisismanikanta&label=Profile%20views&color=0e75b6&style=flat" alt="thisismanikanta" /> </p> -->
 
 - 🔭 I’m currently exploring **web development opportunities and sharpening my problem-solving skills**
 
