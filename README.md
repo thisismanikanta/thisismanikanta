@@ -25,7 +25,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1R3PBJt0W65k2FoqtTOMuJ4mcFCLIlPD9/view?usp=sharing](https://drive.google.com/file/d/1R3PBJt0W65k2FoqtTOMuJ4mcFCLIlPD9/view?usp=sharing)
 
-- ⚡ Fun fact **I enjoy debugging and improving user experience **
+- ⚡ Fun fact  **I enjoy debugging and improving user experience **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
