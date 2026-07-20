@@ -93,8 +93,5 @@
     <img src="https://github-readme-stats-salesp07.vercel.app/api?username=thisismanikanta&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" height="180" alt="readme stats"/>
   </td>
 
-  <td align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thisismanikanta&layout=compact&theme=tokyonight" height="180" alt="top langs"/>
-  </td>
 </tr>
 </table> 
