@@ -131,8 +131,8 @@ Java Developer | React.js | JDBC | MySQL | DSA Enthusiast | Open to Internship O
 <h2 align="center">⚡ GitHub Stats ⚡</h2>
 
 <p align="center">
-  <img height="175em" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=thisismanikanta&theme=react&border_radius=10" />
-  <img height="175em" src="https://github-readme-stats-salesp07.vercel.app/api?username=thisismanikanta&show_icons=true&theme=react&rank_icon=github&border_radius=10" />
+  <img height="165em" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=thisismanikanta&theme=react&border_radius=10" />
+  <img height="165em" src="https://github-readme-stats-salesp07.vercel.app/api?username=thisismanikanta&show_icons=true&theme=react&rank_icon=github&border_radius=10" />
 </p>
 
 <p align="center">
