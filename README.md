@@ -1,164 +1,48 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/thisismanikanta/thisismanikanta/main/banner.jpeg" alt="Ganta Manikanta Anjaneya Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:8A2BE2&height=210&section=header&text=Ganta%20Manikanta%20Anjaneya&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Web%20Developer%20%7C%20React.js%20%C2%B7%20Java%20%C2%B7%20MySQL&descAlignY=58&descSize=17&descColor=e8e8ff" width="100%"/>
 </p>
-
-<h1 align="center">Hi 👋, I'm Ganta Manikanta Anjaneya</h1>
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Hi+there!+%F0%9F%91%8B;I'm+Ganta+Manikanta+Anjaneya;Java+Developer;React.js+Developer;DSA+Enthusiast;Open+to+Internship+Opportunities" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=20&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=560&lines=Building+with+React.js+%26+Java;DSA+Enthusiast;Open+to+Internship+Opportunities" alt="Typing SVG" />
 </p>
-
-<h3 align="center">
-Java Developer | React.js | JDBC | MySQL | DSA Enthusiast | Open to Internship Opportunities
-</h3>
-
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/ed/ec/57/edec57b70e496d6310c0ba533909acb2.gif">
-
-
-## 👨‍💻 About Me
-
-- 🔭 I'm currently building **Java and React.js projects**
-
-- 🌱 I'm currently learning **Java, JDBC, MySQL, and Data Structures & Algorithms**
-
-- 👯 I'm looking to collaborate on **Java and React.js projects**
-
-- 🤝 I'm exploring **Backend Development and Full Stack Development**
-
-- 👨‍💻 All of my projects are available at: [GitHub](https://github.com/thisismanikanta)
-
-- 💬 Ask me about **Java, React.js, JavaScript, HTML, CSS, Tailwind CSS, Bootstrap, JDBC, and MySQL**
-
-- 📫 Reach me at **gantamanikanta2006@gmail.com**
-
-- 🎯 Goal: **To become a Software Development Engineer (SDE)**
-
-- ⚡ Fun fact: **I enjoy debugging and building responsive web applications.**
-
----
-
-<h3 align="left">🌐 Connect with me</h3>
-
-<p align="left">
-
-<a href="https://linkedin.com/in/manikanta-anjaneya-ganta" target="_blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
-</a>
-
-<a href="https://instagram.com/_manikanta_5558" target="_blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40"/>
-</a>
-
-<a href="https://leetcode.com/manikanta-ganta" target="_blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40"/>
-</a>
-
-<a href="https://www.codechef.com/users/manikanta5558" target="_blank">
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" height="30" width="40"/>
-</a>
-
-<a href="https://gitlab.com/manikanta5558" target="_blank">
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="30" width="40"/>
-</a>
-
-</p>
-
----
-
-<h3 align="left">🛠️ Languages and Tools</h3>
-
-<p align="left">
-
-<a href="https://git-scm.com/" target="_blank">
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/>
-</a>
-
-<a href="https://www.w3.org/html/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
-</a>
-
-<a href="https://www.w3schools.com/css/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
-</a>
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
-</a>
-
-<a href="https://react.dev/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/>
-</a>
-
-<a href="https://tailwindcss.com/" target="_blank">
-<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40"/>
-</a>
-<a href="https://getbootstrap.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="40" height="40"/>
-</a>
-
-<a href="https://www.java.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
-</a>
-
-<a href="https://www.mysql.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="55" height="40"/>
-</a>
-
-<a href="https://github.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40"/>
-</a>
-
-<a href="https://code.visualstudio.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" height="40"/>
-</a>
-
-<a href="https://www.eclipse.org/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eclipse/eclipse-original.svg" width="40" height="40"/>
-</a>
-
-</p>
-
----
-
-<h2 align="center">📈 Contribution Graph</h2>
-
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=thisismanikanta&theme=react-dark"/>
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Internships-36BCF7?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Based%20in-Bhimavaram%2C%20India-2b2b2b?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/CGPA-8.93%2F10-8A2BE2?style=for-the-badge" />
 </p>
-
----
-
-<h2 align="center">⚡ GitHub Stats ⚡</h2>
-
 <p align="center">
-  <img height="165em" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=thisismanikanta&theme=react&border_radius=10" />
-  <img height="165em" src="https://github-readme-stats-salesp07.vercel.app/api?username=thisismanikanta&show_icons=true&theme=react&rank_icon=github&border_radius=10" />
+  <a href="mailto:gantamanikanta2006@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/manikanta-anjaneya-ganta" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/thisismanikanta" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://leetcode.com/manikanta-ganta" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+  <a href="https://www.codechef.com/users/manikanta5558" target="_blank"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" /></a>
+  <a href="https://thisismanikanta.github.io/portfolio/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-36BCF7?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </p>
-
+<h3 align="center">👨‍💻 About Me</h3>
+ 
+<p align="center" width="600">
+- 🎓&nbsp; Computer Science undergraduate at Vishnu Institute of Technology, Bhimavaram — CGPA 8.93/10
+- 🔭&nbsp; Currently building projects with **Java** and **React.js**
+- 🌱&nbsp; Currently sharpening **Data Structures & Algorithms**, **JDBC**, and **MySQL**
+- 🤝&nbsp; Open to collaborating on React.js and Java full-stack projects
+- 🎯&nbsp; Working toward a role as a **Software Development Engineer (SDE)**
+</p>
+<h3 align="center">🛠️ Tech Stack</h3>
+ 
 <p align="center">
-
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=thisismanikanta&layout=compact&theme=react"/>
-
+  <img src="https://skillicons.dev/icons?i=java,mysql,js,html,css,react,tailwind,bootstrap&theme=dark" />
 </p>
-
----
-
-<h2 align="center">💻 Coding Profiles</h2>
-
 <p align="center">
-
-<a href="https://leetcode.com/manikanta-ganta">
-<img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode"/>
-</a>
-
-<a href="https://www.codechef.com/users/manikanta5558">
-<img src="https://img.shields.io/badge/CodeChef-Profile-brown?style=for-the-badge&logo=codechef"/>
-</a>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse,vercel&theme=dark" />
 </p>
-
----
-
-<h3 align="center">
-✨ Code. Learn. Build. Repeat. ✨
-</h3>
+<h3 align="center">📊 GitHub Stats</h3>
+ 
+<p align="center">
+  <img height="180em" src="https://streak-stats.demolab.com?user=thisismanikanta&theme=tokyonight&border_radius=12&hide_border=true" />
+</p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=thisismanikanta&theme=tokyo-night&hide_border=true&area=true" width="90%" />
+</p>
+<p align="center">
+  <sub>Thanks for stopping by — always happy to connect over Java, React, or a good DSA problem. ✨</sub>
+</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:8A2BE2&height=110&section=footer" width="100%"/>
